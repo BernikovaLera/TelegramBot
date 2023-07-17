@@ -5,8 +5,8 @@ import datetime
 import math
 
 
-bot = telebot.TeleBot('6052984577:AAEZBfxOVyH9YJPgmJaS_1jNM98kLgrxS3M')
-API = '88a4cc29f0c4a016373a14a6b45e757f'
+bot = telebot.TeleBot('') # API Telegram
+API = '' API weather service
 
 
 @bot.message_handler(commands=['start'])
