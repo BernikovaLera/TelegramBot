@@ -6,7 +6,7 @@ import math
 
 
 bot = telebot.TeleBot('') # API Telegram
-API = '' API weather service
+API = '' #API weather service
 
 
 @bot.message_handler(commands=['start'])
