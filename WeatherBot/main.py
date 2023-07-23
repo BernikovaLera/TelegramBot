@@ -4,7 +4,7 @@ import json
 import datetime
 import math
 
-
+ 
 bot = telebot.TeleBot('') # API Telegram
 API = '' #API weather service
 
