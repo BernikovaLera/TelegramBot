@@ -4,7 +4,7 @@ from telebot import types
 
 
 
-bot = telebot.TeleBot('6052984577:AAEZBfxOVyH9YJPgmJaS_1jNM98kLgrxS3M')
+bot = telebot.TeleBot('') # API Telegram
 currency = CurrencyConverter()
 amount = 0
 
